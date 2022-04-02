@@ -1,0 +1,6 @@
+C:\Users\Roma\Desktop\C#\projects\PC\PC\bin\Debug\PC.exe.config
+C:\Users\Roma\Desktop\C#\projects\PC\PC\obj\Debug\PC.csprojResolveAssemblyReference.cache
+C:\Users\Roma\Desktop\C#\projects\PC\PC\bin\Debug\PC.exe
+C:\Users\Roma\Desktop\C#\projects\PC\PC\bin\Debug\PC.pdb
+C:\Users\Roma\Desktop\C#\projects\PC\PC\obj\Debug\PC.exe
+C:\Users\Roma\Desktop\C#\projects\PC\PC\obj\Debug\PC.pdb
